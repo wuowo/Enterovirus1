@@ -1,0 +1,1624 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "腸病毒感染併發重症",
+                "phone": "(02)-27182618",
+                "address": "臺北市松山區敦化北路155巷9號地下一層",
+                "mask_adult":-,
+                "mask_child":-,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "-",
+                "note": "1",
+                "custom_note": "",
+                "website": "",
+                "county": "高雄市",
+                "town": "鳳山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.356892,
+                    22.626945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "聯青診所",
+                "phone": "(02)25795155",
+                "address": "臺北市松山區南京東路4段16號地下一層",
+                "mask_adult":-,
+                "mask_child":-,
+                "updated": "2022\/03\/09 22:53:23",
+                "available":"-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "雲林縣",
+                "town": "大埤鄉",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430516,
+                    23.645908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "雅得麗生活診所",
+                "phone": "(02)25239915",
+                "address": "臺北市中山區中山北路2段33號3樓",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "北投區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.501,
+                    25.1324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "傑安診所",
+                "phone": "(02)27524155",
+                "address": "臺北市松山區八德路２段４３７巷７弄８號１樓",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "桃園市",
+                "town": "復興區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.35623,
+                    24.726174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "青山診所",
+                "phone": "(02)25810725",
+                "address": "臺北市中山區林森北路432號2樓－3",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "高雄市",
+                "town": "大寮區",
+                "cunli": "",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   120.4111468,
+                    22.59283576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "莊宇龍診所",
+                "phone": "(02)25331255",
+                "address": "臺北市中山區北安路637號",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "大同鄉",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606,
+                    24.676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "(02)23680599",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "-",
+                "website": "",
+                "county": "桃園市",
+                "town": "平鎮區",
+                "cunli": "",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  121.2140051,
+                  24.92117923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "(02)23120120",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "桃園市",
+                "town": "楊梅區",
+                "cunli": "",
+                "service_periods": "NNNNNNYNNNNNYYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   121.1291697,
+                   24.91820989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "(02)27713992",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "桃園市",
+                "town": "大溪區",
+                "cunli": "",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                  121.296342,
+                  24.86797026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "高雄市",
+                "town": "仁武區",
+                "cunli": "",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3605265,
+                    22.70120782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "嘉義市",
+                "town": "東區",
+                "cunli": "",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4706244,
+                    23.48170334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "彰化縣",
+                "town": "彰化市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.5694208,
+                   24.07532909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "-",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "南投縣",
+                "town": "南投市",
+                "cunli": "-",
+                "service_periods": "NNNNNYNNNNNNYNNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6787658,
+                    23.92173537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "-",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "桃園市",
+                "town": "蘆竹區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.2831266,
+                    25.06073337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2010",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "新北市",
+                "town": "三重區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4870977,
+                   25.06281651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "-",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "新北市",
+                "town": "樹林區",
+                "cunli": "-",
+                "service_periods": "YYYYYYYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   121.401034,
+                    24.97970609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "-",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "信義區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5716697,
+                    25.03062083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "-",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "-",
+                "website": "",
+                "county": "新北市",
+                "town": "蘆洲區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.4712461,
+                    25.08927173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2011",
+                "name": "-",
+                "phone": "-",
+                "address": "-",
+                "mask_adult": -,
+                "mask_child": -,
+                "updated": "-",
+                "available": "-",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "新北市",
+                "town": "鶯歌區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3466269,
+                    24.9566258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501106782",
+                "name": "慶生診所",
+                "phone": "(02)25983456",
+                "address": "臺北市中山區林森北路561號2樓之7及之8",
+                "mask_adult": 200,
+                "mask_child": 490,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午休診、星期四上午看診、星期五上午看診、星期六上午休診、星期日上午休診、星期一下午休診、星期二下午看診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上休診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525777,
+                    25.064537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107047",
+                "name": "哲民診所",
+                "phone": "(02)25026854",
+                "address": "臺北市中山區龍江路356巷24號",
+                "mask_adult": 730,
+                "mask_child": 4400,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539885,
+                    25.065916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107314",
+                "name": "元林診所",
+                "phone": "(02)25422508",
+                "address": "臺北市中山區吉林路239號3樓、239號3樓之1",
+                "mask_adult": 850,
+                "mask_child": 860,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上休診、星期三晚上看診、星期四晚上休診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530379,
+                    25.061084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107369",
+                "name": "晴光診所",
+                "phone": "(02)25853210",
+                "address": "臺北市中山區林森北路556號",
+                "mask_adult": 0,
+                "mask_child": 1190,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525538,
+                    25.06433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107538",
+                "name": "禾康診所",
+                "phone": "(02)25319998",
+                "address": "臺北市中山區林森北路486號",
+                "mask_adult": 1700,
+                "mask_child": 1200,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525482,
+                    25.061408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107547",
+                "name": "陳博光教授診所",
+                "phone": "(02)25316262",
+                "address": "臺北市中山區長安東路2段1號1樓、2樓",
+                "mask_adult": 690,
+                "mask_child": 60,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午休診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午休診、星期日下午休診、星期一晚上休診、星期二晚上休診、星期三晚上休診、星期四晚上休診、星期五晚上休診、星期六晚上休診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530193,
+                    25.048646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107574",
+                "name": "榮星診所",
+                "phone": "(02)25168112",
+                "address": "臺北市中山區龍江路272號及274號",
+                "mask_adult": 200,
+                "mask_child": 1420,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540638,
+                    25.060607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107583",
+                "name": "好美醫美診所",
+                "phone": "(02)25713868",
+                "address": "臺北市中山區南京西路5之1號6樓",
+                "mask_adult": 20,
+                "mask_child": 90,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午休診、星期二上午休診、星期三上午休診、星期四上午休診、星期五上午休診、星期六上午休診、星期日上午休診、星期一下午休診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上休診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521373,
+                    25.052603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107725",
+                "name": "大直佳恩診所",
+                "phone": "(02)25323301",
+                "address": "臺北市中山區北安路591號1樓及(地下層)",
+                "mask_adult": 180,
+                "mask_child": 950,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.548643,
+                    25.081944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107850",
+                "name": "美麗好診所",
+                "phone": "(02)25718678",
+                "address": "臺北市中山區南京東路1段42號3樓",
+                "mask_adult": 2020,
+                "mask_child": 1490,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午休診、星期三上午休診、星期四上午休診、星期五上午休診、星期六上午看診、星期日上午休診、星期一下午休診、星期二下午休診、星期三下午看診、星期四下午休診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上休診、星期二晚上休診、星期三晚上看診、星期四晚上休診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "春節連續假期期間均未提供看診服務",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524283,
+                    25.051964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501107985",
+                "name": "彥靚診所",
+                "phone": "(02)25158208",
+                "address": "臺北市中山區松江路75之1號3樓",
+                "mask_adult": 0,
+                "mask_child": 1830,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午休診、星期二上午休診、星期三上午休診、星期四上午休診、星期五上午休診、星期六上午休診、星期日上午休診、星期一下午看診、星期二下午休診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上休診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.533192,
+                    25.049685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3501108008",
+                "name": "四季和安婦幼診所",
+                "phone": "(02)25677310",
+                "address": "臺北市中山區林森北路452號地下1樓、458號及458號3樓",
+                "mask_adult": 40,
+                "mask_child": 950,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "中山區",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525437,
+                    25.06086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2741200511",
+                "name": "台南科學工業園區聯合診所",
+                "phone": "(06)5050225",
+                "address": "臺南市新市區南科三路7號一樓",
+                "mask_adult": 480,
+                "mask_child": 1270,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午休診、星期日下午休診、星期一晚上休診、星期二晚上休診、星期三晚上休診、星期四晚上休診、星期五晚上休診、星期六晚上休診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺南市",
+                "town": "新市區",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284209,
+                    23.098756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2742050515",
+                "name": "台灣中油公司石化事業部醫務室",
+                "phone": "(07)6413701",
+                "address": "高雄市林園區石化二路3號",
+                "mask_adult": 430,
+                "mask_child": 1270,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午休診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午休診、星期日下午休診、星期一晚上休診、星期二晚上休診、星期三晚上休診、星期四晚上休診、星期五晚上休診、星期六晚上休診、星期日晚上休診",
+                "note": "9／09-9／11中秋節連假",
+                "custom_note": "",
+                "website": "",
+                "county": "高雄市",
+                "town": "林園區",
+                "cunli": "-",
+                "service_periods": "NNNNNYYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40894,
+                    22.499023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010031",
+                "name": "第一診所",
+                "phone": "(03)9324418",
+                "address": "宜蘭縣宜蘭市光復路46號",
+                "mask_adult": 12,
+                "mask_child": 1133,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNYYNNNNNYYNNNNYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.755905,
+                    24.755272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010157",
+                "name": "李富逸診所",
+                "phone": "(03)9330369",
+                "address": "宜蘭縣宜蘭市中山路2段189號",
+                "mask_adult": 0,
+                "mask_child": 970,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "口罩銷售服務時間:19:00開始",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "YYYYYNNYYYYYYYNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753657,
+                    24.750101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010166",
+                "name": "林內兒科診所",
+                "phone": "(03)9322080",
+                "address": "宜蘭縣宜蘭市聖後街173號",
+                "mask_adult": 0,
+                "mask_child": 810,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午休診、星期二下午休診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "111／10／08早診 111／10／10早診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753392,
+                    24.758837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010219",
+                "name": "莊耳鼻喉科診所",
+                "phone": "(03)9333939",
+                "address": "宜蘭縣宜蘭市神農路2段48號",
+                "mask_adult": 1550,
+                "mask_child": 1180,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午休診、星期二下午休診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上休診、星期三晚上看診、星期四晚上休診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "每日早上九點半",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.750926,
+                    24.750883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010273",
+                "name": "周明偉診所",
+                "phone": "(03)9351618",
+                "address": "宜蘭縣宜蘭市光復路39號",
+                "mask_adult": 1180,
+                "mask_child": 0,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "中秋節下午休診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756024,
+                    24.754908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010282",
+                "name": "李碧峰小兒科診所",
+                "phone": "(03)9356288",
+                "address": "宜蘭縣宜蘭市中山路3段29號、29號2樓之2",
+                "mask_adult": 510,
+                "mask_child": 370,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "早上7:30~12:00下午14:30~17:30晚上18:30~21:00週六早上8:00~12:00",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75214,
+                    24.756029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010308",
+                "name": "蔡仰中眼科診所",
+                "phone": "(03)9357171",
+                "address": "宜蘭縣宜蘭市宜興路1段111號4樓及113號",
+                "mask_adult": 1540,
+                "mask_child": 3760,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午休診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "1/22上午",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756112,
+                    24.751397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010317",
+                "name": "黃芳裕診所",
+                "phone": "(03)9365198",
+                "address": "宜蘭縣宜蘭市神農里光復路21號",
+                "mask_adult": 1170,
+                "mask_child": 780,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午休診、星期二下午休診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "10／8 上午看診，10／10 上午看診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.756479,
+                    24.754809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010326",
+                "name": "明仁眼科診所",
+                "phone": "(03)9330303",
+                "address": "宜蘭縣宜蘭市中山路2段231號",
+                "mask_adult": 4360,
+                "mask_child": 110,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "10／8正常門診 10／10正常門診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753272,
+                    24.751028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010415",
+                "name": "華杏診所",
+                "phone": "(03)9321512",
+                "address": "宜蘭縣宜蘭市民族路290號",
+                "mask_adult": 0,
+                "mask_child": 480,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午休診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "現場刷卡 當場給口罩",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747129,
+                    24.751816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010433",
+                "name": "譚國勇婦產科診所",
+                "phone": "(03)9366797",
+                "address": "宜蘭縣宜蘭市中山路3段143號1樓",
+                "mask_adult": 2150,
+                "mask_child": 1310,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "111／10／08正常門診  111／10／09休診  111／10／10正常門診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.752964,
+                    24.759558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010451",
+                "name": "徐英忠耳鼻喉科美形診所",
+                "phone": "(03)9352966",
+                "address": "宜蘭縣宜蘭市復興路29號1、2樓",
+                "mask_adult": 1140,
+                "mask_child": 960,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75505,
+                    24.749918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010522",
+                "name": "曹天德診所",
+                "phone": "(03)9353267",
+                "address": "宜蘭縣宜蘭市舊城東路3－1號",
+                "mask_adult": 20,
+                "mask_child": 680,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午休診、星期五下午看診、星期六下午",
+                "note": "10／8上午門診.10／10休診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.75556,
+                    24.755669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010586",
+                "name": "陳義文小兒科診所",
+                "phone": "(03)9369885",
+                "address": "宜蘭縣宜蘭市中山路2段358號1樓",
+                "mask_adult": 1600,
+                "mask_child": 1450,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午休診、星期日上午看診、星期一下午看診、星期二下午休診、星期三下午看診、星期四下午休診、星期五下午看診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "8／9-8／11休診3天",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753684,
+                    24.750633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010657",
+                "name": "林耳鼻喉科診所",
+                "phone": "(03)9311234",
+                "address": "宜蘭縣宜蘭市中山路3段233號",
+                "mask_adult": 0,
+                "mask_child": 20,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "國慶日10／8正常門診、10／9只看早上門診、10／10正常門診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.753591,
+                    24.761606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010693",
+                "name": "李耳鼻喉科診所",
+                "phone": "(03)9322622",
+                "address": "宜蘭縣宜蘭市昇平里崇聖街33－2號",
+                "mask_adult": 3050,
+                "mask_child": 1590,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午休診、星期二下午休診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.754687,
+                    24.755737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3534010755",
+                "name": "黃建財診所",
+                "phone": "(03)9333657",
+                "address": "宜蘭縣宜蘭市舊城西路79號",
+                "mask_adult": 1150,
+                "mask_child": 710,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "國定假日不一定看診",
+                "custom_note": "",
+                "website": "",
+                "county": "宜蘭縣",
+                "town": "宜蘭市",
+                "cunli": "-",
+                "service_periods": "YYYYYYYNYNYNYYNYYYNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749861,
+                    24.759297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023386",
+                "name": "弘昇診所",
+                "phone": "(02)27110061",
+                "address": "臺北市大安區復興南路１段１０７巷３２號",
+                "mask_adult": 800,
+                "mask_child": 1070,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
+                "note": "上午11點以後至晚上11點",
+                "custom_note": "周一至周六早上11點起,周日下午4點起發售口罩,賣完為止",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "光武里",
+                "service_periods": "NNNNNNYNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.545787,
+                    25.043494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023519",
+                "name": "惠盈診所",
+                "phone": "(02)87321366",
+                "address": "臺北市大安區辛亥路２段１７１巷３１號",
+                "mask_adult": 0,
+                "mask_child": 20,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "龍淵里",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541193,
+                    25.022971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023523",
+                "name": "聯合仁愛診所",
+                "phone": "(02)27039269",
+                "address": "臺北市大安區大安路１段１５７巷３號",
+                "mask_adult": 420,
+                "mask_child": 1590,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午休診、星期日下午休診、星期一晚上休診、星期二晚上休診、星期三晚上休診、星期四晚上休診、星期五晚上休診、星期六晚上休診、星期日晚上休診",
+                "note": "上午8點~8點半發號碼牌，下午12點~6點領取，其餘時間不受理口罩業務 ，週六日未販售口罩。",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "德安里",
+                "service_periods": "NNNNNNNNNNNNYYYYYYYYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546319,
+                    25.037308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023591",
+                "name": "一心診所",
+                "phone": "(02)27321818",
+                "address": "臺北市大安區和平東路３段２３８號",
+                "mask_adult": 360,
+                "mask_child": 90,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "口罩一~六0900開始售完為止，星期日不賣口罩",
+                "custom_note": "現場直接購買，不須號碼牌，星期一~五早上八點，六日下午二點賣完為止",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "黎孝里",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554876,
+                    25.021906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023706",
+                "name": "聖英診所",
+                "phone": "(02)27055851",
+                "address": "臺北市大安區仁愛路４段２６６巷１５弄１８號",
+                "mask_adult": 4510,
+                "mask_child": 790,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
+                "note": "-",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "敦煌里",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553997,
+                    25.036542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023724",
+                "name": "元氣生活健保診所",
+                "phone": "(02)27060580",
+                "address": "臺北市大安區新生南路１段１６１巷６號",
+                "mask_adult": 0,
+                "mask_child": 660,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "營業時間10AM~10PM.每周日公休.不受一般國定假日影響",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "民炤里",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.534662,
+                    25.034545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023831",
+                "name": "康乃馨診所",
+                "phone": "(02)23257097",
+                "address": "臺北市大安區建國南路１段３２７號",
+                "mask_adult": 490,
+                "mask_child": 1210,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上休診",
+                "note": "週一至週六09:00-21:00、口罩代售時間自09:00；現場排隊",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "和安里",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNNY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538211,
+                    25.034806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901023902",
+                "name": "惠良診所",
+                "phone": "(02)27387872",
+                "address": "臺北市大安區和平東路３段９３－１號",
+                "mask_adult": 30,
+                "mask_child": 260,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "早上9:30發號碼牌及收健保卡進行過卡紀錄",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "全安里",
+                "service_periods": "NNNNNNYNNNNNNYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550727,
+                    25.024615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901024178",
+                "name": "誠心診所",
+                "phone": "(02)27527520",
+                "address": "臺北市大安區忠孝東路３段１９９－１號",
+                "mask_adult": 60,
+                "mask_child": 2160,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午看診、星期一下午看診、星期二下午看診、星期三下午看診、星期四下午看診、星期五下午看診、星期六下午看診、星期日下午看診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上看診、星期日晚上看診",
+                "note": "全年無休 0830-2230",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "昌隆里",
+                "service_periods": "NNNNNNNNNNNNNNNNNNNNN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540036,
+                    25.041856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5901024221",
+                "name": "安居診所",
+                "phone": "(02)23773537",
+                "address": "臺北市大安區安居街１９號",
+                "mask_adult": 380,
+                "mask_child": 1860,
+                "updated": "2022\/03\/09 22:53:23",
+                "available": "星期一上午看診、星期二上午看診、星期三上午看診、星期四上午看診、星期五上午看診、星期六上午看診、星期日上午休診、星期一下午休診、星期二下午休診、星期三下午休診、星期四下午休診、星期五下午休診、星期六下午休診、星期日下午休診、星期一晚上看診、星期二晚上看診、星期三晚上看診、星期四晚上看診、星期五晚上看診、星期六晚上休診、星期日晚上休診",
+                "note": "領口罩注意事項:週一到週六早上8:30-12:00直接排隊購買 .週日不營業",
+                "custom_note": "",
+                "website": "",
+                "county": "臺北市",
+                "town": "大安區",
+                "cunli": "黎孝里",
+                "service_periods": "NNNNNNYYYYYYYYNNNNNYY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554935,
+                    25.020856
+                ]
+            }
+        }
+    ]
+        }   
